@@ -1,16 +1,21 @@
 title:wothins s23 picks
 
+
+
+//////
+//  Dreaming City 
+//////////////////////////////////////////////////
+
+
 // Tigerspite
 //notes: wothin PvP season23
 dimwishlist:item=2465372924&perks=839105230,1561002382,2451262963,1015611457
 dimwishlist:item=2465372924&perks=839105230,1561002382,588594999,1015611457
 dimwishlist:item=2465372924&perks=839105230,1561002382,2451262963,699525795
 dimwishlist:item=2465372924&perks=839105230,1561002382,588594999,699525795
-
 //notes: wothin PvE season23
 dimwishlist:item=2465372924&perks=1820235745,3891536761
 dimwishlist:item=2465372924&perks=3643424744,3891536761
-
 
 // Waking Vigil
 //notes: wothin PvP season23
@@ -18,7 +23,6 @@ dimwishlist:item=3723679465&perks=1561002382,247725512,1015611457
 dimwishlist:item=3723679465&perks=1561002382,247725512,47981717
 dimwishlist:item=3723679465&perks=1885400500,247725512,1015611457
 dimwishlist:item=3723679465&perks=1885400500,247725512,47981717
-
 //notes: wothin PvE season23
 dimwishlist:item=3723679465&perks=1885400500,247725512,2173046394
 dimwishlist:item=3723679465&perks=3230963543,247725512,2173046394
@@ -27,15 +31,14 @@ dimwishlist:item=3723679465&perks=1885400500,1168162263,2173046394
 dimwishlist:item=3723679465&perks=3230963543,1168162263,2173046394
 dimwishlist:item=3723679465&perks=679225683,1168162263,2173046394
 
-
 // Vouchsafe
 //notes: wothin season23 PvE MW:range,stability
 dimwishlist:item=355922321&perks=839105230,3142289711,776531651,2048641572
 dimwishlist:item=355922321&perks=839105230,3230963543,776531651,2048641572
-
 //notes: wothin season23 PvP MW:range,stability
 dimwishlist:item=355922321&perks=839105230,3142289711,247725512,3038247973
 dimwishlist:item=355922321&perks=839105230,3142289711,588594999,3038247973
+
 
 // Twilight Oath
 //notes: wothin season23 PvP
@@ -43,7 +46,6 @@ dimwishlist:item=1874424704&perks=4090651448,3142289711,47981717,957782887
 dimwishlist:item=1874424704&perks=4090651448,106909392,47981717,957782887
 dimwishlist:item=1874424704&perks=1840239774,3142289711,47981717,957782887
 dimwishlist:item=1874424704&perks=1840239774,106909392,47981717,957782887
-
 //notes: wothin season23 PvE
 dimwishlist:item=1874424704&perks=839105230,3142289711,968510818,4293542123
 
@@ -72,11 +74,58 @@ dimwishlist:item=250721843&perks=3666208348,1749209109,3913600130
 
 
 
+
+//////
+//  Dungeon: Warlords Ruin
+//////////////////////////////////////////////////
+
+
+// Vengeful Whisper
+// Dragoncult Sickle
+// Indebted Kindness
+// Naeem's Lance
+
+
+
+//////
+//  World Drops
+//////////////////////////////////////////////////
+
+
+// Marcato-45
+
+
+// Ros Arago IV
+//notes: wothin god roll season23 PvP
+dimwishlist:item=3583275737&perks=839105230,1359896290,95528736
+//notes: wothin season23 PvP
+dimwishlist:item=3583275737&perks=839105230,1359896290,2610012052
+
+
 // Crux Termination IV
 //notes: wothin season23 PvE
 dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,3194351027
 dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,3194351027
 
+
+// Parabellum
+//notes: wothin season23 PvP
+dimwishlist:item=3926811686&perks=3828510309,3673922083
+dimwishlist:item=3926811686&perks=3828510309,1359896290
+dimwishlist:item=3926811686&perks=3017780555,1359896290
+dimwishlist:item=3926811686&perks=3017780555,3673922083
+//notes: wothin season23 PvE
+dimwishlist:item=3926811686&perks=3017780555,4104185692
+dimwishlist:item=3926811686&perks=1583705720,243981275
+dimwishlist:item=3926811686&perks=1583705720,4104185692
+
+
+
+
+
+//////
+//  Gambit
+//////////////////////////////////////////////////
 
 
 // Breakneck
@@ -97,6 +146,77 @@ dimwishlist:item=2026755633&perks=699525795,95528736
 dimwishlist:item=2026755633&perks=1820235745,3891536761
 dimwishlist:item=2026755633&perks=1359896290,3891536761
 
+
+
+//////
+//  Vanguard
+//////////////////////////////////////////////////
+
+
+// Double-Edged Answer
+//notes: wothin season23 PvE
+dimwishlist:item=105164264&perks=776531651,2048641572
+dimwishlist:item=105164264&perks=1749209109,243981275
+dimwishlist:item=105164264&perks=1749209109,3913600130
+
+
+
+//////
+//  Nightfall
+//////////////////////////////////////////////////
+
+
+// Undercurrent
+// Uzume RR4
+
+
+
+//////
+//  Crucible
+//////////////////////////////////////////////////
+
+
+// Retrofuturist
+
+
+
+//////
+//  Competitive
+//////////////////////////////////////////////////
+
+
+// Belisarius-D
+
+
+
+//////
+//  Trials
+//////////////////////////////////////////////////
+
+
+// Incisor
+
+
+
+//////
+//  Iron Banner
+//////////////////////////////////////////////////
+
+
+// Riiswalker
+//notes: wothin god roll season23 PvP
+dimwishlist:item=1764868900&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=1764868900&perks=1047830412,791862061,3161816588,2451262963
+dimwishlist:item=1764868900&perks=1482024992,791862061,3161816588,591790007
+//notes: wothin season23 PvP
+dimwishlist:item=1764868900&perks=1482024992,791862061,3161816588,47981717
+dimwishlist:item=1764868900&perks=1482024992,791862061,3161816588,2451262963
+dimwishlist:item=1764868900&perks=4090651448,791862061,3161816588,2451262963
+dimwishlist:item=1764868900&perks=4090651448,791862061,3161816588,47981717
+dimwishlist:item=1764868900&perks=4090651448,791862061,3161816588,591790007
+dimwishlist:item=1764868900&perks=1482024992,791862061,3161816588,591790007
+
+
 // Lethal Abundance
 //notes: wothin god roll season23 PvP
 dimwishlist:item=2189073092&perks=839105230,1885400500,3619207468,95528736
@@ -112,50 +232,5 @@ dimwishlist:item=2189073092&perks=1392496348,679225683,3619207468,95528736
 dimwishlist:item=2189073092&perks=1359896290,95528736
 dimwishlist:item=2189073092&perks=923806249,95528736
 dimwishlist:item=2189073092&perks=923806249,831391274
-
-
-
-// Riiswalker
-
-// Vengeful Whisper
-
-// Belisarius-D
-
-// Naeem's Lance
-
-// Ros Arago IV
-//notes: wothin god roll season23 PvP
-dimwishlist:item=3583275737&perks=839105230,1359896290,95528736
-//notes: wothin season23 PvP
-dimwishlist:item=3583275737&perks=839105230,1359896290,2610012052
-
-// Undercurrent
-
-// Optative
-
-// Retrofuturist
-
-// Indebted Kindness
-
-// Uzume RR4
-
-// Parabellum
-//notes: wothin season23 PvP
-dimwishlist:item=3926811686&perks=3828510309,3673922083
-dimwishlist:item=3926811686&perks=3828510309,1359896290
-dimwishlist:item=3926811686&perks=3017780555,1359896290
-dimwishlist:item=3926811686&perks=3017780555,3673922083
-//notes: wothin season23 PvE
-dimwishlist:item=3926811686&perks=3017780555,4104185692
-dimwishlist:item=3926811686&perks=1583705720,243981275
-dimwishlist:item=3926811686&perks=1583705720,4104185692
-
-// Marcato-45
-
-// Double-Edged Answer
-
-// Dragoncult Sickle
-
-
 
 
