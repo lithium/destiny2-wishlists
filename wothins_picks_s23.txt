@@ -72,9 +72,70 @@ dimwishlist:item=250721843&perks=3666208348,1749209109,3913600130
 
 
 
+// Crux Termination IV
+//notes: wothin season23 PvE
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,3194351027
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,3194351027
 
-// Supercluster
+
+
+// Breakneck
+//notes: wothin god roll season23 PvP
+dimwishlist:item=2026755633&perks=1392496348,1885400500,3619207468,95528736
+dimwishlist:item=2026755633&perks=839105230,1885400500,3619207468,95528736
+
 //notes: wothin season23 PvP
-dimwishlist:item=92459755&perks=3250034553,3142289711,3161816588,2451262963
-dimwishlist:item=92459755&perks=1482024992,3142289711,3161816588,2451262963
+dimwishlist:item=2026755633&perks=3619207468,95528736
+dimwishlist:item=2026755633&perks=1359896290,95528736
+dimwishlist:item=2026755633&perks=699525795,95528736
+
+
+// Lethal Abundance
+//notes: wothin god roll season23 PvP
+dimwishlist:item=2189073092&perks=839105230,1885400500,3619207468,95528736
+dimwishlist:item=2189073092&perks=839105230,1561002382,3619207468,95528736
+dimwishlist:item=2189073092&perks=839105230,679225683,3619207468,95528736
+dimwishlist:item=2189073092&perks=3661387068,1561002382,3619207468,95528736
+dimwishlist:item=2189073092&perks=3661387068,3230963543,3619207468,95528736
+dimwishlist:item=2189073092&perks=3661387068,679225683,3619207468,95528736
+dimwishlist:item=2189073092&perks=1392496348,1561002382,3619207468,95528736
+dimwishlist:item=2189073092&perks=1392496348,3230963543,3619207468,95528736
+dimwishlist:item=2189073092&perks=1392496348,679225683,3619207468,95528736
+//notes: wothin season23 PvP
+dimwishlist:item=2189073092&perks=1359896290,95528736
+dimwishlist:item=2189073092&perks=923806249,95528736
+dimwishlist:item=2189073092&perks=923806249,831391274
+
+
+
+// Riiswalker
+
+// Vengeful Whisper
+
+// Belisarius-D
+
+// Naeem's Lance
+
+// Ros Arago IV
+
+// Undercurrent
+
+// Optative
+
+// Retrofuturist
+
+// Indebted Kindness
+
+// Uzume RR4
+
+// Parabellum
+
+// Marcato-45
+
+// Double-Edged Answer
+
+// Dragoncult Sickle
+
+
+
 
